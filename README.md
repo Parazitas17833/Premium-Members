@@ -1,10 +1,11 @@
 # Premium-Members
 
-Parazitas17833
-AkenX
+Lukas_Parazitas
 
-Alphatester
+Admin_Admin
 
-Wooon?
+Alphatester_Tester
 
-More?
+Big_Bissness
+
+Small_Businesss
